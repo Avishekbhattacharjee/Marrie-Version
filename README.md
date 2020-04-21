@@ -47,7 +47,7 @@ class Development(Config):
     OWNER_ID = 707038723  # my telegram ID
     OWNER_USERNAME = "avishekbhattacharjee"  # my telegram username
     API_KEY = "992195965:AAH96RTDtIWqDdwjyN6VH2UEWUP1fKBN1Gg"  # my api key, as provided by the botfather
-    SQLALCHEMY_DATABASE_URI = 'postgresql://idealhelp:password@localhost:5432/database'  # sample db credentials
+    SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
     USE_MESSAGE_DUMP = True
     SUDO_USERS = [864417619]  # List of id's for users which have sudo access to the bot.
