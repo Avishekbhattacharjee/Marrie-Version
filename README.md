@@ -6,11 +6,11 @@ simple to use.
 
 Can be found on telegram as [IdealHelp](https://t.me/idealhelpbot).
 
-Marie and I are moderating a [support group](https://t.me/idealhelporgsupport), where you can ask for help setting up your
+Marie and I are moderating a [support group](https://t.me/idealhelpsupport), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/idealhelporgnews) if you just want to stay in the loop about new features or
+Join the [news channel](https://t.me/idealhelpofficial) if you just want to stay in the loop about new features or
 announcements.
 
 Alternatively, [find me on telegram](https://t.me/avishekbhattacharjee)! (Keep all support questions in the support chat, where more people can help you.)
